@@ -6,9 +6,9 @@
 The research presents a novel way to determine interpersonal physical synchrony state by inspecting hands’ postures obtained from a unique 3D depth camera device named Leap-Motion Controller.
 We have datasets with hand motion sensor recordings, our task was to classify the type of the hands moving:
 
-1.) Spontaneous
-2.) Synchronized
-3.) Alone
+1. Spontaneous 
+2. Synchronized 
+3. Alone
 
 In the datasets there are 14 different features including hand, wrist and elbow postioning, velocity, yaw, pitch... etc 
 In the Jupyter Notebook file we can see the rest of the features given in the datasets.
