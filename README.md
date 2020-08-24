@@ -20,10 +20,10 @@ In the Jupyter Notebook file we can see the rest of the features given in the da
 
 |   Model Name  | Validation Score|
 | ------------- | ------------- |
-| KNN  | 96%  |
+| KNN  | 97%  |
 | Random Forest  | 80%  |
 | Gradient Boosting | 93%  |
-| Linear SVC | 99%  |
+| Linear SVC | 85%  |
 | Logistic Regression | 83% |
 
 
